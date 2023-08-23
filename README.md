@@ -1,4 +1,4 @@
-# VentBot
+# ADA - VentBot
 > This repository contains the VentBot project built using [Keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org/). Deployed in Flask.
 
 Capstone project. A friendly chatbot that helps humans identify their emotions.
